@@ -9,6 +9,7 @@ This chart bootstraps a SonarQube instance with a PostgreSQL database.
 ## Prerequisites
 
 - Kubernetes 1.10+
+- Helm v3+
 
 ## Installing the chart
 
